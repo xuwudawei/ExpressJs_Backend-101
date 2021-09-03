@@ -13,6 +13,11 @@ let users = [
       lname: "Jones",
     },
     {
+      id: 0,
+      fname: "Jack",
+      lname: "Jones",
+    },
+    {
       id: 1,
       fname: "John",
       lname: "Doe",
